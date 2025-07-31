@@ -12,3 +12,5 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 print (f"Hello")
 # saying hello test
+
+#Here is another update by nurshat-ababakirov 
