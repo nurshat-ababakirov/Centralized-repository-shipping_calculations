@@ -14,5 +14,3 @@ print (f"Hello")
 # saying hello test
 
 #Here is another update by nurshat-ababakirov 
-
-#Here is another update 
